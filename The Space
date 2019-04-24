@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The space</h2>
+<p>There are different type of stars in the space.</p>
+
+<p id="demo"></p>
+
+
+</body>
+</html> 
