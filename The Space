@@ -8,9 +8,10 @@
 <h2>The space</h2>
 <p>There are different type of stars in the space,such as:Normal star</p>
 <button type="button"
-onclick="window.alert(Normal stars are)">What is Normal Star?</button>
-
-<p id="demo"></p>
+onclick="window.alert(Normal stars are the most normal type of stars,for example,The Sun is the normal star that nearest The Earth.)">What is Normal Star?</button>
+<p>Red Giant<p>
+<button type="button"
+onclick="window.alert(ost normal type of star)">What is Red Giant?</button><p id="demo"></p>
 
 
 </body>
